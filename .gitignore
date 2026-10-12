@@ -1,0 +1,31 @@
+# Datasets
+WESAD
+archive
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+*/node_modules/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Build outputs
+dist/
+build/
+
+# Environment and sensitive files
+.env
+.env.local
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
